@@ -1,0 +1,9 @@
+datasets:
+  - json_path: /iopsstor/scratch/cscs/lpanta32/focus/video_chatflash/heico_train_flash.json
+    sampling_strategy: "first:25%"
+    data_root: /iopsstor/scratch/cscs/lpanta32/focus/heico_clips_train
+  - json_path: /iopsstor/scratch/cscs/lpanta32/focus/video_chatflash/lapchole_train_flash.json
+    sampling_strategy: "first:25%"
+    data_root: /iopsstor/scratch/cscs/lpanta32/focus/lapchole_clips_train
+
+    

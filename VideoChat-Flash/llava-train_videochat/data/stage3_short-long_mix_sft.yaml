@@ -1,0 +1,6 @@
+datasets:
+  - json_path: /iopsstor/scratch/cscs/lpanta32/annotations/video/caption_vidln_uvo_dense-vidln-uvo_dense_train_1k.json
+    sampling_strategy: all
+    data_root: /iopsstor/scratch/cscs/lpanta32/shortvideo_subset/caption_vidln_uvo_dense-vidln-uvo_dense_train_1k
+
+    

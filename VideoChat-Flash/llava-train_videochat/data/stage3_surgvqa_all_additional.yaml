@@ -1,0 +1,36 @@
+datasets:
+  - json_path: /iopsstor/scratch/cscs/lpanta32/focus/video_chatflash/heico_train_overlay_flash.json
+    sampling_strategy: all
+    data_root: /iopsstor/scratch/cscs/lpanta32/focus/chatflash_video_list/heico_clips_train_overlay
+  - json_path: /iopsstor/scratch/cscs/lpanta32/focus/video_chatflash/lapchole_train_overlay_flash.json
+    sampling_strategy: all
+    data_root: /iopsstor/scratch/cscs/lpanta32/focus/chatflash_video_list/lapchole_clips_train_overlay
+
+    
+  # - json_path: /iopsstor/scratch/cscs/lpanta32/focus/video_chatflash/heico_test_overlay_flash.json
+  #   sampling_strategy: all
+  #   data_root: /iopsstor/scratch/cscs/lpanta32/focus/chatflash_video_list/heico_clips_test_overlay
+  # - json_path: /iopsstor/scratch/cscs/lpanta32/focus/video_chatflash/lapchole_test_overlay_flash.json
+  #   sampling_strategy: all
+  #   data_root: /iopsstor/scratch/cscs/lpanta32/focus/chatflash_video_list/lapchole_clips_test_overlay
+
+
+  # - json_path: /iopsstor/scratch/cscs/lpanta32/focus/Additional_datasets/natural/shortvideo_subset/caption_vidln_uvo_dense-vidln-uvo_dense_train_1k.json
+  #   sampling_strategy: all
+  #   data_root: /iopsstor/scratch/cscs/lpanta32/focus/Additional_datasets/natural/shortvideo_subset/caption_vidln_uvo_dense-vidln-uvo_dense_train_1k
+
+
+  # - json_path: /iopsstor/scratch/cscs/lpanta32/focus/Additional_datasets/pitvqa/pitvqa_train_videochat_flash.json
+  #   sampling_strategy: all
+  #   data_root: /iopsstor/scratch/cscs/lpanta32/focus/Additional_datasets/pitvqa
+  #   video_read_type: img
+  # - json_path: /iopsstor/scratch/cscs/lpanta32/focus/Additional_datasets/EndoVis_part/endovis_train_resampled_flash.json
+  #   sampling_strategy: all
+  #   data_root: /iopsstor/scratch/cscs/lpanta32/focus/Additional_datasets/EndoVis_part
+  #   video_read_type: img
+  # - json_path: /iopsstor/scratch/cscs/lpanta32/focus/Additional_datasets/EndoVis_part/endovis_test_resampled_flash.json
+  #   sampling_strategy: all
+  #   data_root: /iopsstor/scratch/cscs/lpanta32/focus/Additional_datasets/EndoVis_part
+  #   video_read_type: img
+
+    
