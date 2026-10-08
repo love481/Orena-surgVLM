@@ -59,7 +59,7 @@ bash scripts/train/stage3-video_sft/stage3_torch.sh
 > Make sure the checkpoint path and dataset YAML referenced in `stage3_torch.sh` match the files from steps 1 and 2.
 
 ## 3. Inference and Evaluation
-Download the trained checkpoints from following [huggingface link](https://huggingface.co/gc-anurag/SurgVideoChat/tree/main) if you want just inference.
+Download the trained checkpoints from the following [huggingface link](https://huggingface.co/gc-anurag/SurgVideoChat/tree/main) if you want just inference.
 
 Run from inside `orena-focus`:
 
